@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 150px auto;
+  height: 400px;
+  width: 488px;
+  border: 2px solid white;
+  border-radius: 15px;
+}
+body {
+  background-color: #039be5;
+}
+button {
+  color: white;
+}
+h1 {
+  color: white;
+  margin-top: 50px;
+  font-size: 45px;
+  letter-spacing: 4px;
+  font-family: fantasy;
+  font-weight: 900;
+}
+#btn-1 {
+  margin: 0px 50px 0px 50px;
+  height: 40px;
+  width: 42px;
+  font-size: 30px;
+  border-radius: 50%;
+  border: 2px solid white;
+  background-color: #039be5;
+}
+#btn-2 {
+  margin: 0px 50px 0px;
+  height: 40px;
+  width: 42px;
+  font-size: 30px;
+  border-radius: 50%;
+  border: 2px solid white;
+  background-color: #039be5;
+}
